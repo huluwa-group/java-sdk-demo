@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>cn.fangixnqian</groupId>
+    <artifactId>java-sdk-demo</artifactId>
+    <version>1.1.0</version>
+
+    <developers>
+        <developer>
+            <name>Niezhiliang</name>
+            <id>niezhiliang</id>
+            <email>nzlsgg@163.com</email>
+            <roles>
+                <role>Developer</role>
+            </roles>
+            <timezone>+8</timezone>
+        </developer>
+    </developers>
+
+    <dependencies>
+        <dependency>
+            <groupId>cn.fangxinqian.operator.sdk</groupId>
+            <artifactId>sdk-operator</artifactId>
+            <version>1.1.0</version>
+        </dependency>
+    </dependencies>
+
+</project>
