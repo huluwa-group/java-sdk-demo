@@ -37,10 +37,10 @@ public class ContractSign2 {
     private static String SIGNATURE_PERSONAL = "personal-mqz.png";
 
     /** 合同签署的appid **/
-    private static String APPID = "d6da13e3c68646acb988823c107b24ba";
+    private static String APPID = "";
 
     /** 合同签署的appsecret **/
-    private static String APPSECRET = "c26fbd54b84a4a2bb8f9a34ffa718821377db1f750114acfac4a43238c401f8a";
+    private static String APPSECRET = "";
 
     /**
      * 合同签署接口2.0
